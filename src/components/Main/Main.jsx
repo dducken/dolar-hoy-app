@@ -68,7 +68,7 @@ const Main = () => {
                     </div>
                     <div className="form-control">
                         <label htmlFor="length">Calcular</label>
-                        <input type="number" id="calc" min='0' placeholder='ARS' onChange={(e) => handleCalculate(e)} />=<input type="text" id="calc" placeholder='USD' disabled value={result > 0 ? result : ''}/>
+                        <input type="number" id="calc" min='0' placeholder='USD' onChange={(e) => handleCalculate(e)} />=<input type="text" id="calc" placeholder='ARS' disabled value={result > 0 ? result : ''}/>
                     </div>
                 
                 </div>
