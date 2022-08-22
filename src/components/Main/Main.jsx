@@ -54,7 +54,7 @@ const Main = () => {
 
                 <div className="header">
                     <div className="title">
-                        <span id="title">Dólar blue hoy</span>
+                        <span id="title">Dolar blue hoy</span>
                     </div>
                 </div>
                 <div className="t-body">
