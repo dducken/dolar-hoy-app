@@ -1,11 +1,11 @@
-### Página web para conocer el valor del dolar blue | Argentina ⭐
+### *Página web para conocer el valor del dolar blue | Argentina ⭐*
 
-### 📌 Función principal:
-* #### **`Obtener mediante la api de DolarSi informacion actualizada del dolar blue`** 
+### 📌 *Función principal:*
+* #### ***`Obtener mediante la api de DolarSi informacion actualizada del dolar blue`***
 
-### 📌 Tecnologías:
-* #### **`◼ React`** 
-* #### **`◼ Axios `** 
+### 📌 *Tecnologías:*
+* #### ***`◼ React`***
+* #### ***`◼ Axios `*** 
 
-### 📌 Enlace:
-* #### **`https://blue-hoy.netlify.app/`** 
+### 📌 *Enlace:*
+***https://blue-hoy.netlify.app/***
